@@ -18,4 +18,4 @@ We'll try to respond as soon as we can. Once we've answered, we'll close the iss
 
 ---
 
-Special thanks to *@alexeybondarenko* [for leading the way](https://github.com/alexeybondarenko/feedback).
+Special thanks to *@alexeybondarenko* [for leading the way](https://github.com/alexeybondarenko).
